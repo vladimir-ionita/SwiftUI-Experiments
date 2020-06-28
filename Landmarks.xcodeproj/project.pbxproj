@@ -14,6 +14,7 @@
 		9CEA9EEB24A672B4007E27EE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CEA9EEA24A672B4007E27EE /* Preview Assets.xcassets */; };
 		9CEA9EEE24A672B4007E27EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9CEA9EEC24A672B4007E27EE /* LaunchScreen.storyboard */; };
 		9CEA9EF824A92EE7007E27EE /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CEA9EF724A92EE7007E27EE /* CircleImage.swift */; };
+		9CEA9EFA24A9301F007E27EE /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CEA9EF924A9301F007E27EE /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		9CEA9EED24A672B4007E27EE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9CEA9EEF24A672B4007E27EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9CEA9EF724A92EE7007E27EE /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		9CEA9EF924A9301F007E27EE /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				9CEA9EEF24A672B4007E27EE /* Info.plist */,
 				9CEA9EE924A672B4007E27EE /* Preview Content */,
 				9CEA9EF724A92EE7007E27EE /* CircleImage.swift */,
+				9CEA9EF924A9301F007E27EE /* MapView.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 			files = (
 				9CEA9EE224A672AE007E27EE /* AppDelegate.swift in Sources */,
 				9CEA9EF824A92EE7007E27EE /* CircleImage.swift in Sources */,
+				9CEA9EFA24A9301F007E27EE /* MapView.swift in Sources */,
 				9CEA9EE424A672AE007E27EE /* SceneDelegate.swift in Sources */,
 				9CEA9EE624A672AE007E27EE /* ContentView.swift in Sources */,
 			);
