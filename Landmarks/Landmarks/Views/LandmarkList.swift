@@ -2,7 +2,7 @@
 //  LandmarkList.swift
 //  Landmarks
 //
-//  Created by Marina Ionita on 28/06/2020.
+//  Created by Vladimir Ionita on 28/06/2020.
 //  Copyright © 2020 Vladimir Ionita. All rights reserved.
 //
 
@@ -23,6 +23,10 @@ struct LandmarkList: View {
 
 struct List_Previews: PreviewProvider {
     static var previews: some View {
-        LandmarkList()
+        ForEach(["iPhone SE", "iPhone XS Max"], id: \.self) { deviceName in
+            LandmarkList()
+                .previewDevice(PreviewDevice(rawValue: deviceName))
+                .previewDisplayName(deviceName)
+        }
     }
 }
