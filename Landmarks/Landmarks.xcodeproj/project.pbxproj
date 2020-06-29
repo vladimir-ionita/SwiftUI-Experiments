@@ -141,20 +141,20 @@
 		9CEA9F0724A96F58007E27EE /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				9CEA9F0824A96F58007E27EE /* turtlerock.jpg */,
-				9CEA9F0924A96F58007E27EE /* silversalmoncreek.jpg */,
+				9CCD766624A996BD00C3E0C8 /* charleyrivers.jpg */,
+				9CEA9F1324A96F58007E27EE /* chilkoottrail.jpg */,
+				9CEA9F1024A96F58007E27EE /* chincoteague.jpg */,
+				9CEA9F0C24A96F58007E27EE /* hiddenlake.jpg */,
 				9CEA9F0A24A96F58007E27EE /* icybay.jpg */,
 				9CEA9F0B24A96F58007E27EE /* lakemcdonald.jpg */,
-				9CEA9F0C24A96F58007E27EE /* hiddenlake.jpg */,
-				9CCD766624A996BD00C3E0C8 /* charleyrivers.jpg */,
+				9CEA9F0F24A96F58007E27EE /* landmarkData.json */,
+				9CEA9F1424A96F58007E27EE /* rainbowlake.jpg */,
+				9CEA9F0924A96F58007E27EE /* silversalmoncreek.jpg */,
+				9CEA9F1224A96F58007E27EE /* stmarylake.jpg */,
+				9CEA9F0824A96F58007E27EE /* turtlerock.jpg */,
 				9CEA9F0D24A96F58007E27EE /* twinlake.jpg */,
 				9CEA9F0E24A96F58007E27EE /* umbagog.jpg */,
-				9CEA9F0F24A96F58007E27EE /* landmarkData.json */,
-				9CEA9F1024A96F58007E27EE /* chincoteague.jpg */,
 				9CEA9F1124A96F58007E27EE /* yukon_charleyrivers.jpg */,
-				9CEA9F1224A96F58007E27EE /* stmarylake.jpg */,
-				9CEA9F1324A96F58007E27EE /* chilkoottrail.jpg */,
-				9CEA9F1424A96F58007E27EE /* rainbowlake.jpg */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
