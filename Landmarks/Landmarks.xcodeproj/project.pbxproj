@@ -14,7 +14,7 @@
 		9CEA9EEE24A672B4007E27EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9CEA9EEC24A672B4007E27EE /* LaunchScreen.storyboard */; };
 		9CEA9EFF24A9357C007E27EE /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CEA9EFC24A9357C007E27EE /* MapView.swift */; };
 		9CEA9F0024A9357C007E27EE /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CEA9EFD24A9357C007E27EE /* CircleImage.swift */; };
-		9CEA9F0124A9357C007E27EE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CEA9EFE24A9357C007E27EE /* ContentView.swift */; };
+		9CEA9F0124A9357C007E27EE /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CEA9EFE24A9357C007E27EE /* LandmarkDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 		9CEA9EEF24A672B4007E27EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9CEA9EFC24A9357C007E27EE /* MapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		9CEA9EFD24A9357C007E27EE /* CircleImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
-		9CEA9EFE24A9357C007E27EE /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		9CEA9EFE24A9357C007E27EE /* LandmarkDetail.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,7 +84,7 @@
 			children = (
 				9CEA9EFC24A9357C007E27EE /* MapView.swift */,
 				9CEA9EFD24A9357C007E27EE /* CircleImage.swift */,
-				9CEA9EFE24A9357C007E27EE /* ContentView.swift */,
+				9CEA9EFE24A9357C007E27EE /* LandmarkDetail.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -162,7 +162,7 @@
 			files = (
 				9CEA9EE224A672AE007E27EE /* AppDelegate.swift in Sources */,
 				9CEA9EFF24A9357C007E27EE /* MapView.swift in Sources */,
-				9CEA9F0124A9357C007E27EE /* ContentView.swift in Sources */,
+				9CEA9F0124A9357C007E27EE /* LandmarkDetail.swift in Sources */,
 				9CEA9F0024A9357C007E27EE /* CircleImage.swift in Sources */,
 				9CEA9EE424A672AE007E27EE /* SceneDelegate.swift in Sources */,
 			);
