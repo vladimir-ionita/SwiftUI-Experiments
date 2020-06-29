@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9CCD766724A996BD00C3E0C8 /* charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9CCD766624A996BD00C3E0C8 /* charleyrivers.jpg */; };
 		9CEA9EE224A672AE007E27EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CEA9EE124A672AE007E27EE /* AppDelegate.swift */; };
 		9CEA9EE424A672AE007E27EE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CEA9EE324A672AE007E27EE /* SceneDelegate.swift */; };
 		9CEA9EE824A672B4007E27EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9CEA9EE724A672B4007E27EE /* Assets.xcassets */; };
@@ -35,6 +36,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9CCD766624A996BD00C3E0C8 /* charleyrivers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = charleyrivers.jpg; sourceTree = "<group>"; };
 		9CEA9EDE24A672AE007E27EE /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CEA9EE124A672AE007E27EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9CEA9EE324A672AE007E27EE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -144,6 +146,7 @@
 				9CEA9F0A24A96F58007E27EE /* icybay.jpg */,
 				9CEA9F0B24A96F58007E27EE /* lakemcdonald.jpg */,
 				9CEA9F0C24A96F58007E27EE /* hiddenlake.jpg */,
+				9CCD766624A996BD00C3E0C8 /* charleyrivers.jpg */,
 				9CEA9F0D24A96F58007E27EE /* twinlake.jpg */,
 				9CEA9F0E24A96F58007E27EE /* umbagog.jpg */,
 				9CEA9F0F24A96F58007E27EE /* landmarkData.json */,
@@ -221,6 +224,7 @@
 				9CEA9EEE24A672B4007E27EE /* LaunchScreen.storyboard in Resources */,
 				9CEA9F1B24A96F58007E27EE /* umbagog.jpg in Resources */,
 				9CEA9F1F24A96F58007E27EE /* stmarylake.jpg in Resources */,
+				9CCD766724A996BD00C3E0C8 /* charleyrivers.jpg in Resources */,
 				9CEA9F1D24A96F58007E27EE /* chincoteague.jpg in Resources */,
 				9CEA9EEB24A672B4007E27EE /* Preview Assets.xcassets in Resources */,
 				9CEA9F1724A96F58007E27EE /* icybay.jpg in Resources */,
