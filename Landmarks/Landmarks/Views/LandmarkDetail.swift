@@ -2,7 +2,7 @@
 //  LandmarkDetail.swift
 //  Landmarks
 //
-//  Created by Marina Ionita on 26/06/2020.
+//  Created by Vladimir Ionita on 26/06/2020.
 //  Copyright © 2020 Vladimir Ionita. All rights reserved.
 //
 
