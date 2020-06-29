@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9C14803D24AA997500B5780C /* RotatedBadgeSymbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C14803C24AA997500B5780C /* RotatedBadgeSymbol.swift */; };
 		9CCD766724A996BD00C3E0C8 /* charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9CCD766624A996BD00C3E0C8 /* charleyrivers.jpg */; };
 		9CE00B4224AA8383005EF56C /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CE00B4124AA8383005EF56C /* UserData.swift */; };
 		9CE00B4424AA8BFC005EF56C /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CE00B4324AA8BFC005EF56C /* Badge.swift */; };
@@ -41,6 +42,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9C14803C24AA997500B5780C /* RotatedBadgeSymbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RotatedBadgeSymbol.swift; sourceTree = "<group>"; };
 		9CCD766624A996BD00C3E0C8 /* charleyrivers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = charleyrivers.jpg; sourceTree = "<group>"; };
 		9CE00B4124AA8383005EF56C /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 		9CE00B4324AA8BFC005EF56C /* Badge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badge.swift; sourceTree = "<group>"; };
@@ -147,6 +149,7 @@
 				9CE00B4324AA8BFC005EF56C /* Badge.swift */,
 				9CE00B4824AA9341005EF56C /* BadgeBackground.swift */,
 				9CE00B4A24AA93F2005EF56C /* BadgeSymbol.swift */,
+				9C14803C24AA997500B5780C /* RotatedBadgeSymbol.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -275,6 +278,7 @@
 				9CEA9F0124A9357C007E27EE /* LandmarkDetail.swift in Sources */,
 				9CEA9F2524A9711B007E27EE /* LandmarkRow.swift in Sources */,
 				9CE00B4B24AA93F2005EF56C /* BadgeSymbol.swift in Sources */,
+				9C14803D24AA997500B5780C /* RotatedBadgeSymbol.swift in Sources */,
 				9CEA9F0024A9357C007E27EE /* CircleImage.swift in Sources */,
 				9CE00B4924AA9341005EF56C /* BadgeBackground.swift in Sources */,
 				9CEA9EE424A672AE007E27EE /* SceneDelegate.swift in Sources */,
