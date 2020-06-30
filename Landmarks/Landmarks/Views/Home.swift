@@ -22,6 +22,15 @@ struct CategoryHome: View {
     
     @State var showingProfile = false
     
+    var profileButton: some View {
+        Button(action: { self.showingProfile.toggle() }) {
+            Image(systemName: "person.crop.circle")
+                .imageScale(.large)
+                .accessibility(label: Text("User Profile"))
+                .padding()
+        }
+    }
+    
     var body: some View {
         NavigationView {
             List {
