@@ -163,9 +163,9 @@
 				9CEA9EFE24A9357C007E27EE /* LandmarkDetail.swift */,
 				9CEA9F2424A9711B007E27EE /* LandmarkRow.swift */,
 				9CEA9F2624A9784C007E27EE /* LandmarkList.swift */,
-				9C14803E24AAAB3000B5780C /* Badge */,
-				9C14804724AAAD1200B5780C /* Home.swift */,
 				9C14804924AAB12B00B5780C /* CategoryRow.swift */,
+				9C14804724AAAD1200B5780C /* Home.swift */,
+				9C14803E24AAAB3000B5780C /* Badge */,
 			);
 			path = Views;
 			sourceTree = "<group>";
