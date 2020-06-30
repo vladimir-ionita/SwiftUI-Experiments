@@ -11,16 +11,17 @@ import SwiftUI
 struct CategoryHome: View {
     var categories: [String: [Landmark]] {
         Dictionary(
-            grouping: landmarkData,
+            grouping: userData.landmarks,
             by: { $0.category.rawValue }
         )
     }
     
     var featured: [Landmark] {
-        landmarkData.filter { $0.isFeatured }
+        userData.landmarks.filter { $0.isFeatured }
     }
     
     @State var showingProfile = false
+    @EnvironmentObject var userData: UserData
     
     var profileButton: some View {
         Button(action: { self.showingProfile.toggle() }) {
