@@ -203,7 +203,6 @@
 			children = (
 				9CEA9EE124A672AE007E27EE /* AppDelegate.swift */,
 				9CEA9EE324A672AE007E27EE /* SceneDelegate.swift */,
-				9CEA9EE724A672B4007E27EE /* Assets.xcassets */,
 				9CEA9EEC24A672B4007E27EE /* LaunchScreen.storyboard */,
 				9CEA9EEF24A672B4007E27EE /* Info.plist */,
 				9CEA9EFB24A9357C007E27EE /* Views */,
@@ -255,6 +254,7 @@
 		9CEA9F0724A96F58007E27EE /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				9CEA9EE724A672B4007E27EE /* Assets.xcassets */,
 				9CB0A0D424AAD200000E4766 /* Images */,
 				9CB0A0D524AAD23A000E4766 /* Data */,
 			);
