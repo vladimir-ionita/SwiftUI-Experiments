@@ -165,6 +165,15 @@
 			path = Images;
 			sourceTree = "<group>";
 		};
+		9CB0A0D524AAD23A000E4766 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				9CB0A0C424AAD00F000E4766 /* hikeData.json */,
+				9CEA9F0F24A96F58007E27EE /* landmarkData.json */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
 		9CE00B4524AA8C4D005EF56C /* Geometry */ = {
 			isa = PBXGroup;
 			children = (
@@ -247,8 +256,7 @@
 			isa = PBXGroup;
 			children = (
 				9CB0A0D424AAD200000E4766 /* Images */,
-				9CB0A0C424AAD00F000E4766 /* hikeData.json */,
-				9CEA9F0F24A96F58007E27EE /* landmarkData.json */,
+				9CB0A0D524AAD23A000E4766 /* Data */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
